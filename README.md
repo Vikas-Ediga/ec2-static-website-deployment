@@ -246,11 +246,11 @@ The following screenshots demonstrate the successful implementation and deployme
 **Description:** The AWS Management Console shows the launched EC2 instance named `mywebserver`, its running status, instance type, and successful status checks.
 
 <p align="center">
-  <img src="screenshots/ec2-instance.png" alt="AWS EC2 Instance Running" width="100%">
+  <img src="./screenshots/ec2-instance.png" width="100%" alt="AWS EC2 Instance">
 </p>
 
 <p align="center">
-  <b>Figure 1: AWS EC2 Instance Running Successfully</b>
+  <b>Figure 1: EC2 Instance Running Successfully</b>
 </p>
 
 ---
@@ -260,11 +260,11 @@ The following screenshots demonstrate the successful implementation and deployme
 **Description:** The terminal demonstrates the Ubuntu environment, Nginx document root configuration, HTML webpage creation, and successful local testing using curl.
 
 <p align="center">
-  <img src="screenshots/nginx-terminal.png" alt="Ubuntu Nginx Terminal Configuration" width="100%">
+  <img src="./screenshots/nginx-terminal.png" width="100%" alt="Nginx Configuration">
 </p>
 
 <p align="center">
-  <b>Figure 2: Nginx Configuration and Terminal Verification</b>
+  <b>Figure 2: Nginx Installation and Configuration</b>
 </p>
 
 ---
@@ -274,11 +274,11 @@ The following screenshots demonstrate the successful implementation and deployme
 **Description:** The deployed website is accessed through the EC2 instance's Public IPv4 address. The browser displays the custom webpage heading.
 
 <p align="center">
-  <img src="screenshots/website-output.png" alt="Static Website Hosted on AWS EC2" width="100%">
+  <img src="./screenshots/website-output.png" width="100%" alt="Hosted Static Website">
 </p>
 
 <p align="center">
-  <b>Figure 3: Successfully Deployed Website on AWS EC2</b>
+  <b>Figure 3: Successfully Hosted Website Using AWS EC2</b>
 </p>
 
 ---
